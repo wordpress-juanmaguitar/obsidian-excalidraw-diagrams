@@ -111,7 +111,8 @@ to render UI ^jmkuMMrR
 			"boundElementIds": [
 				"QLn4BR5QLdchLbbb7y3fb",
 				"TzpUf-tsg6VY1wgAzUtsW"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -135,6 +136,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "WordPress \nREST API",
@@ -173,7 +175,8 @@ to render UI ^jmkuMMrR
 				"dLVJH9bDssWAtSq5-YWqQ",
 				"9CDIL9ezNU7U6jmKxIj6S",
 				"s0syZkTZO3RyvCl68ZEKu"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "arrow",
@@ -197,6 +200,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "McdqQdNimFO5S_blWnGqe",
 				"gap": 1.3731343283582096,
@@ -257,7 +261,8 @@ to render UI ^jmkuMMrR
 				"9CDIL9ezNU7U6jmKxIj6S",
 				"s0syZkTZO3RyvCl68ZEKu",
 				"UJjYgRCPkN8MK54EHuFBW"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -284,6 +289,7 @@ to render UI ^jmkuMMrR
 				"-rW8RlMAg9krSeGI2WgDY",
 				"bpFYMjIuLwNHKYoF5sP1m"
 			],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "@wordpress/edit-post",
@@ -317,7 +323,8 @@ to render UI ^jmkuMMrR
 				"zDwPJzeKWLvw4E2gXDD7h",
 				"tF0J9QyFKzLm643LknUSp",
 				"-Xd-x5jHExxdRzXBxuDgG"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -341,6 +348,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "@wordpress/data",
@@ -371,6 +379,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "@wordpress/apiFetch",
@@ -401,6 +410,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 14.709677419354838,
 			"fontFamily": 1,
 			"text": "@wordpress/block-editor",
@@ -431,6 +441,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "retrieve \nedited\n post",
@@ -466,7 +477,8 @@ to render UI ^jmkuMMrR
 				"bpFYMjIuLwNHKYoF5sP1m",
 				"9yv_MGYQYvx5-mDLvir57",
 				"losiO7bv6zt5N836LnRRO"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -490,6 +502,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "@wordpress/blocks",
@@ -522,6 +535,7 @@ to render UI ^jmkuMMrR
 			"boundElementIds": [
 				"-rW8RlMAg9krSeGI2WgDY"
 			],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "parse post content \nas blocks",
@@ -552,6 +566,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "IbjzKI7nkNZcIk0emr1CM",
 				"focus": -0.2525685281587491,
@@ -600,6 +615,7 @@ to render UI ^jmkuMMrR
 			"boundElementIds": [
 				"zDwPJzeKWLvw4E2gXDD7h"
 			],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "render block list to \nedit parsed content",
@@ -630,6 +646,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "pDgrhb9xTc--X-w4JYTNs",
 				"gap": 13.855325559526591,
@@ -676,6 +693,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "edited blocks",
@@ -710,7 +728,8 @@ to render UI ^jmkuMMrR
 				"TzpUf-tsg6VY1wgAzUtsW",
 				"U0zFx--iW_PEJin8uKAPt",
 				"vjN8YKa1-pss_8nUBz9sE"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -734,6 +753,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "post.php",
@@ -764,6 +784,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "WPAdmin",
@@ -794,6 +815,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "ABPY44UfhcdQ5WnUXgCE9",
 				"focus": 0.011258377745750744,
@@ -844,6 +866,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "Initialize \nthe post editor",
@@ -881,7 +904,8 @@ to render UI ^jmkuMMrR
 				"f62E6s_57Je1ZPUXcCtX_",
 				"dLVJH9bDssWAtSq5-YWqQ",
 				"d1SMxBnX-sncsVzKwbEew"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -905,6 +929,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 14.709677419354838,
 			"fontFamily": 1,
 			"text": "@wordpress/editor",
@@ -935,6 +960,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "IbjzKI7nkNZcIk0emr1CM",
 				"focus": 0.4444444444444444,
@@ -981,6 +1007,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "IbjzKI7nkNZcIk0emr1CM",
 				"focus": -0.2979631757573413,
@@ -1030,6 +1057,7 @@ to render UI ^jmkuMMrR
 				"-rW8RlMAg9krSeGI2WgDY",
 				"bpFYMjIuLwNHKYoF5sP1m"
 			],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "serialize blocks \nto post content",
@@ -1060,6 +1088,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "3brGgyPnliY43-VLkQbVO",
 				"focus": 0.6038522340716648,
@@ -1110,6 +1139,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "Render components \nto edit post properties",
@@ -1140,6 +1170,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "IbjzKI7nkNZcIk0emr1CM",
 				"focus": 0.1774945524835427,
@@ -1186,6 +1217,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "make edits \nto the post",
@@ -1216,6 +1248,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "3brGgyPnliY43-VLkQbVO",
 				"focus": -0.48389621188036475,
@@ -1266,6 +1299,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "3brGgyPnliY43-VLkQbVO",
 				"focus": 0.23601826970336381,
@@ -1316,6 +1350,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "save changes",
@@ -1354,7 +1389,8 @@ to render UI ^jmkuMMrR
 				"d1SMxBnX-sncsVzKwbEew",
 				"-Xd-x5jHExxdRzXBxuDgG",
 				"UJjYgRCPkN8MK54EHuFBW"
-			]
+			],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1378,6 +1414,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "@wordpress/components",
@@ -1408,6 +1445,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "IbjzKI7nkNZcIk0emr1CM",
 				"focus": -0.02907814187972633,
@@ -1454,6 +1492,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "pDgrhb9xTc--X-w4JYTNs",
 				"gap": 1,
@@ -1508,6 +1547,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"startBinding": {
 				"elementId": "3brGgyPnliY43-VLkQbVO",
 				"focus": -0.5474452554744527,
@@ -1566,6 +1606,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "Use reusable \ncomponents \nto render UI",
@@ -1595,7 +1636,8 @@ to render UI ^jmkuMMrR
 			"seed": 853985042,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1619,6 +1661,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "1",
@@ -1648,7 +1691,8 @@ to render UI ^jmkuMMrR
 			"seed": 54788622,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1672,6 +1716,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "2",
@@ -1701,7 +1746,8 @@ to render UI ^jmkuMMrR
 			"seed": 911510030,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1725,6 +1771,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "3",
@@ -1754,7 +1801,8 @@ to render UI ^jmkuMMrR
 			"seed": 416075090,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1778,6 +1826,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "4",
@@ -1807,7 +1856,8 @@ to render UI ^jmkuMMrR
 			"seed": 1463623118,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1831,6 +1881,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "5",
@@ -1860,7 +1911,8 @@ to render UI ^jmkuMMrR
 			"seed": 763406418,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171091
 		},
 		{
 			"type": "text",
@@ -1884,6 +1936,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171091,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "6",
@@ -1913,7 +1966,8 @@ to render UI ^jmkuMMrR
 			"seed": 1995643346,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171092
 		},
 		{
 			"type": "text",
@@ -1937,6 +1991,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171092,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "7",
@@ -1966,7 +2021,8 @@ to render UI ^jmkuMMrR
 			"seed": 521446354,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171092
 		},
 		{
 			"type": "text",
@@ -1990,6 +2046,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171092,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "8",
@@ -2019,7 +2076,8 @@ to render UI ^jmkuMMrR
 			"seed": 1124068562,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638369171093
 		},
 		{
 			"type": "text",
@@ -2043,6 +2101,7 @@ to render UI ^jmkuMMrR
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638369171093,
 			"fontSize": 20,
 			"fontFamily": 2,
 			"text": "9",
