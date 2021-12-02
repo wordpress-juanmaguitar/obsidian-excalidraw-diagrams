@@ -1,6 +1,7 @@
 ---
 
 excalidraw-plugin: parsed
+excalidraw-link: https://excalidraw.com/#json=zzCMgLijfVh65Ym-dR0TP,-u2dT7zvJNB0ZGemSfvyXg
 
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
@@ -89,7 +90,8 @@ Executive Director ^mgQoXHVe
 			"strokeSharpness": "sharp",
 			"boundElementIds": [
 				"Nbb46LlJkhDLwol_R2uW1"
-			]
+			],
+			"updated": 1638432212529
 		},
 		{
 			"type": "rectangle",
@@ -119,7 +121,8 @@ Executive Director ^mgQoXHVe
 				"x5-aYDrcnnoeQ1cxsMQGl",
 				"347ZJY4mncy_USapCo6LW",
 				"Kd3mWsJLZ1pWY3inMUxeU"
-			]
+			],
+			"updated": 1638432212529
 		},
 		{
 			"type": "text",
@@ -147,6 +150,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"nkdLx2LQWioQ9u_kBzgGP"
 			],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Extenders",
@@ -181,7 +185,8 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"UHVhbtXo8sT7BO6KcE0W5",
 				"Kqu8Br9fXyUCSy8AiJXBf"
-			]
+			],
+			"updated": 1638432212529
 		},
 		{
 			"type": "text",
@@ -207,6 +212,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Leadership",
@@ -244,7 +250,8 @@ Executive Director ^mgQoXHVe
 				"5Xq3zFHNZ4O4Cd_RAlNhy",
 				"45PQsLiwjL_ww7HppQCR-",
 				"ENl28dDGtWAR93qf002ct"
-			]
+			],
+			"updated": 1638432212529
 		},
 		{
 			"type": "text",
@@ -270,6 +277,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Contributors",
@@ -305,7 +313,8 @@ Executive Director ^mgQoXHVe
 				"Yn77dl_3qCiQQmzrNGN95",
 				"Jne6rm92g9HEbCFnadhBD",
 				"Nbb46LlJkhDLwol_R2uW1"
-			]
+			],
+			"updated": 1638432212529
 		},
 		{
 			"type": "text",
@@ -331,6 +340,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Visitors",
@@ -368,7 +378,8 @@ Executive Director ^mgQoXHVe
 				"Jne6rm92g9HEbCFnadhBD",
 				"Y8SV1cKO1z6FQfXAwF6nX",
 				"E6VU6W0DowLW_FVEdazgx"
-			]
+			],
+			"updated": 1638432212529
 		},
 		{
 			"type": "text",
@@ -396,6 +407,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"Y8SV1cKO1z6FQfXAwF6nX"
 			],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Users",
@@ -428,6 +440,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"E6VU6W0DowLW_FVEdazgx"
 			],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "people who use WordPress \nas their CMS",
@@ -458,6 +471,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212529,
 			"startBinding": {
 				"focus": -0.7662358039511251,
 				"gap": 11.024468315971717,
@@ -510,6 +524,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"Nbb46LlJkhDLwol_R2uW1"
 			],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "People that arrive at a WordPress site \nto gain information or engage in an activity",
@@ -540,6 +555,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212529,
 			"startBinding": {
 				"focus": 0.26058488278197683,
 				"gap": 4.241753472222058,
@@ -592,6 +608,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"J1dmWldY-8xwCvHGGMpG3"
 			],
+			"updated": 1638432212529,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "People who extend WordPress through \nthe creation of themes, plugins, blocks, and more. ",
@@ -622,6 +639,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212529,
 			"startBinding": {
 				"focus": 0.8438923991157792,
 				"gap": 11.424958997532485,
@@ -669,7 +687,8 @@ Executive Director ^mgQoXHVe
 				"jIlbOQf_fTRBAMJxH4vzS"
 			],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638432212529
 		},
 		{
 			"type": "text",
@@ -695,6 +714,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "2",
@@ -726,7 +746,8 @@ Executive Director ^mgQoXHVe
 				"EAwmjCiguph4Z_KU1RD6s"
 			],
 			"strokeSharpness": "sharp",
-			"boundElementIds": []
+			"boundElementIds": [],
+			"updated": 1638432212530
 		},
 		{
 			"type": "text",
@@ -752,6 +773,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "1",
@@ -785,7 +807,8 @@ Executive Director ^mgQoXHVe
 			"strokeSharpness": "sharp",
 			"boundElementIds": [
 				"Nbb46LlJkhDLwol_R2uW1"
-			]
+			],
+			"updated": 1638432212530
 		},
 		{
 			"type": "text",
@@ -811,6 +834,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "3\n",
@@ -844,7 +868,8 @@ Executive Director ^mgQoXHVe
 			"strokeSharpness": "sharp",
 			"boundElementIds": [
 				"Nbb46LlJkhDLwol_R2uW1"
-			]
+			],
+			"updated": 1638432212530
 		},
 		{
 			"type": "text",
@@ -870,6 +895,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "4",
@@ -903,7 +929,8 @@ Executive Director ^mgQoXHVe
 			"strokeSharpness": "sharp",
 			"boundElementIds": [
 				"Nbb46LlJkhDLwol_R2uW1"
-			]
+			],
+			"updated": 1638432212530
 		},
 		{
 			"type": "text",
@@ -929,6 +956,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "5",
@@ -962,6 +990,7 @@ Executive Director ^mgQoXHVe
 				"5Xq3zFHNZ4O4Cd_RAlNhy",
 				"21C3suDxx_EKthZA8JE2t"
 			],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "People who contribute to the open source software (OSS) \nand the infrastructure that supports the project. ",
@@ -995,6 +1024,7 @@ Executive Director ^mgQoXHVe
 				"45PQsLiwjL_ww7HppQCR-",
 				"ENl28dDGtWAR93qf002ct"
 			],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "WordPress.org contributor teams and other volunteers \nwho give their time to the project itself \nand not necessarily just the extended ecosystem.",
@@ -1025,6 +1055,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "People who teach WordPress to others through \nWordPress podcasts, newsletters, and tutorials.",
@@ -1055,6 +1086,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": {
 				"focus": -0.09149268145844862,
@@ -1101,6 +1133,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": {
 				"focus": 0.7363040007174325,
 				"gap": 5.02473958333394,
@@ -1147,6 +1180,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": {
 				"focus": -0.7183224381971027,
 				"gap": 7.839843749999659,
@@ -1198,7 +1232,8 @@ Executive Director ^mgQoXHVe
 			"strokeSharpness": "sharp",
 			"boundElementIds": [
 				"fkUW6ZND2iExFmT03flwW"
-			]
+			],
+			"updated": 1638432212530
 		},
 		{
 			"type": "line",
@@ -1224,6 +1259,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1264,6 +1300,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1304,6 +1341,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1344,6 +1382,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1384,6 +1423,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1424,6 +1464,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1464,6 +1505,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1504,6 +1546,7 @@ Executive Director ^mgQoXHVe
 			],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212530,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1548,6 +1591,7 @@ Executive Director ^mgQoXHVe
 				"nFdOBoLiz73-jurieby0i",
 				"e3ZdXJftdKAzeXAonYk_J"
 			],
+			"updated": 1638432212530,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Small group that help drive the vision \nand strategy for WordPress.",
@@ -1578,6 +1622,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212531,
 			"startBinding": {
 				"focus": -0.020556871015945326,
 				"gap": 2.510850694445253,
@@ -1624,6 +1669,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212531,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Project Lead",
@@ -1656,6 +1702,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"nFdOBoLiz73-jurieby0i"
 			],
+			"updated": 1638432212531,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Executive Director",
@@ -1688,6 +1735,7 @@ Executive Director ^mgQoXHVe
 			"boundElementIds": [
 				"e3ZdXJftdKAzeXAonYk_J"
 			],
+			"updated": 1638432212531,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "(Matt Mullenweg)",
@@ -1718,6 +1766,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
+			"updated": 1638432212531,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "(Josepha Haden)",
@@ -1748,6 +1797,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212531,
 			"startBinding": {
 				"focus": -0.2573684832548563,
 				"gap": 15.00390625,
@@ -1794,6 +1844,7 @@ Executive Director ^mgQoXHVe
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638432212531,
 			"startBinding": {
 				"focus": 0.026747329881886245,
 				"gap": 14.796316964285722,

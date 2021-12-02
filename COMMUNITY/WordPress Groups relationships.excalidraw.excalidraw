@@ -1,51 +1,3 @@
----
-
-excalidraw-plugin: parsed
-
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-Extenders ^crFLYN6U
-
-Contributors ^n6FZ7V2Y
-
-Visitors ^I4p3XdAZ
-
-Users ^yuuX4F93
-
-Visitors ^U5Z5ZXv6
-
-Users ^q6zIW7ZE
-
-Users ^mkc9CSHv
-
-Extenders ^zX2SJB87
-
-Extenders ^VviYnc8L
-
-Contributors ^Hy925ADC
-
-Contributors ^rtwjELkr
-
-Leadership ^X1iAMjNV
-
-Leadership ^M7kzGNv1
-
-Extenders ^Vrlv3tmo
-
-Leadership ^CJ8m20I3
-
-Contributors ^N4TZqEx1
-
-Visitors ^TW4XdXyC
-
-Users ^opwFmIwC
-
-%%
-# Drawing
-```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -1191,5 +1143,3 @@ Users ^opwFmIwC
 	},
 	"files": {}
 }
-```
-%%

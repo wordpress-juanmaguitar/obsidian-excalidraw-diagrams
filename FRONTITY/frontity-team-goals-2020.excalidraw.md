@@ -12,8 +12,6 @@ excalidraw-plugin: parsed
 # Text Elements
 Make WordPress the best platform for web development ^pD94GX72
 
-Frontity Team ^XIXlA0hl
-
 Gutenberg ^QvHBjN2z
 
 FSE ^jsLn9kR7
@@ -65,6 +63,8 @@ Ensure  sites built with WordPress
 provide the best UX and performance ^6QkDz5De
 
 🚀 UX and Performance ^CvAFQrmk
+
+Frontity Team ^sO5CuVEt
 
 %%
 # Drawing
@@ -134,10 +134,10 @@ provide the best UX and performance ^6QkDz5De
 		},
 		{
 			"type": "text",
-			"version": 281,
-			"versionNonce": 739909688,
+			"version": 284,
+			"versionNonce": 787947943,
 			"isDeleted": false,
-			"id": "XIXlA0hl",
+			"id": "sO5CuVEt",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -150,13 +150,13 @@ provide the best UX and performance ^6QkDz5De
 			"backgroundColor": "#15aabf40",
 			"width": 492,
 			"height": 88,
-			"seed": 20370760,
+			"seed": 467385993,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [
 				"9UCCxbN5G5vQij-rZZKhs"
 			],
-			"updated": 1638349530444,
+			"updated": 1638431361390,
 			"fontSize": 70.38857421875001,
 			"fontFamily": 1,
 			"text": "Frontity Team",
@@ -167,8 +167,8 @@ provide the best UX and performance ^6QkDz5De
 		},
 		{
 			"type": "arrow",
-			"version": 585,
-			"versionNonce": 1292938824,
+			"version": 587,
+			"versionNonce": 1116207593,
 			"isDeleted": false,
 			"id": "9UCCxbN5G5vQij-rZZKhs",
 			"fillStyle": "hachure",
@@ -187,16 +187,16 @@ provide the best UX and performance ^6QkDz5De
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
-			"updated": 1638349530444,
+			"updated": 1638431382657,
 			"startBinding": {
-				"elementId": "IWRWo9N6",
 				"focus": 0.06457714909876668,
-				"gap": 14.469155347719834
+				"gap": 14.469155347719834,
+				"elementId": "IWRWo9N6"
 			},
 			"endBinding": {
-				"elementId": "xR8LHHH40sGwDTmric-tz",
 				"focus": -0.08634168489650249,
-				"gap": 13.013390516862273
+				"gap": 13.013390516862273,
+				"elementId": "xR8LHHH40sGwDTmric-tz"
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2203,7 +2203,7 @@ provide the best UX and performance ^6QkDz5De
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,

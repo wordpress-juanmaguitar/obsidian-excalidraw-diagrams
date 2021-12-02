@@ -29,9 +29,10 @@ Diagrams can be found inside Obsidian by searching by:
 - texts inside diagrams
 - words inside filenames
 
-In the repo you'll find two types of files: 
+In the repo you'll find these types of files: 
 - `*.md` or `*.excalidraw.md` → these are the excalidraw diagrams managed by the [`obsidian-excalidraw-plugin`](https://github.com/zsviczian/obsidian-excalidraw-plugin)inside Obsidian (they can be opened and edited inside Obsidian when the plugin is installed and activated)
 - `*.png` → these are the images generated automatically by the `Autoexport to PNG` setting of the  plugin `obsidian-excalidraw-plugin`
+- `*.excalidraw` or `*.excalidraw.excalidraw` → these are the `*.excalidraw` files ready to be imported (loaded) in excalidraw.com (although copy and paste will also work)
 
 
 > I also found the [Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd) and [Gitako](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk) extensions of Google Chome to be very useful to access and download directly from the [GitHub repo](https://github.com/wordpress-juanmaguitar/obsidian-excalidraw-diagrams) the diagrams 
